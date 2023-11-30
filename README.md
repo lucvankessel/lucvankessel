@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lucvankessel
+# Hi there! 👋 I'm Luc van Kessel
 
-<!---
-lucvankessel/lucvankessel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Full-time Software Engineering student at Hanzehogeschool Groningen  
+💻 Part-time Back-end Developer at Klippa  
+📧 Contact: lucv.k@outlook.com
