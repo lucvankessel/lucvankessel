@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Luc van Kessel
 
-💻 Full-time Back-end Developer @ Klippa  
+💻 Programmer based in and around Groningen NL  
 📧 Contact: lucv.k@outlook.com   
 🌐 [Personal Website](http://lucvkessel.nl?utm_source=Github)
